@@ -1,3 +1,3 @@
 # My-Projects
-Hello waorld
+Hello world 
 My name is Bhupali
